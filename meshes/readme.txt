@@ -1,1 +1,0 @@
-请放入voca导出的mesh文件夹下的mesh序列
