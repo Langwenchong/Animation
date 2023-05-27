@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Kajiya-Kay_Red
+  m_Shader: {fileID: 4800000, guid: 1dcb4a0162f503740b8fafbf292cf01e, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 2800000, guid: f9bc450de24ea714fa24af24a4dfd807, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseTex:
+        m_Texture: {fileID: 2800000, guid: 7eb4da99f2ac66045b113cf00234c6a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 8e84e5d28430be245a660f45f550d9dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PrimaryShiftTex:
+        m_Texture: {fileID: 2800000, guid: 521878f4dfc284b43b7bfd81a0f58e7f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondShiftTex:
+        m_Texture: {fileID: 2800000, guid: 370a93d84b922154ea0cdb3e809e7ba7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 0.54
+    - _PrimaryShift: -1.01
+    - _SecondShift: -0.19
+    - _SpecularScale: 0.01
+    - _SpecularWidth: 0.809
+    - _Specularity_1: 285
+    - _Specularity_2: 204
+    m_Colors:
+    - _DiffuseColor: {r: 0.6415094, g: 0.22515771, b: 0.19668922, a: 1}
+    - _SpecularColor_1: {r: 0.8018868, g: 0.7073247, b: 0.7073247, a: 1}
+    - _SpecularColor_2: {r: 0.8301887, g: 0.5815928, b: 0.5521538, a: 1}
+  m_BuildTextureStacks: []

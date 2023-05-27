@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 34d29b51ea9152f4181ce18f3ce818aa
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: efd191c0cdd50974ab96957d0b0a2888, type: 3}
+  - _AlphaTex: {fileID: 2800000, guid: e1ac6925a01f2cc41b60dcda5edcaf50, type: 3}
+  - _AoTex: {fileID: 2800000, guid: e1458c673686d934288d07e1fdb03980, type: 3}
+  - _RoughnessTex: {fileID: 2800000, guid: 8d8811fb1ff1a1e48a73e75f185bae46, type: 3}
+  - _EmissionTex: {fileID: 2800000, guid: 47a9a372031a3d640852a65cdb07edd9, type: 3}
+  - _Metallic: {fileID: 2800000, guid: ba8251899fcd8ab4db51e0028ec6e473, type: 3}
+  - _NormalMap: {fileID: 2800000, guid: bbb696e69099884458e00705cc3b0100, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
